@@ -1,1 +1,2 @@
 Ceci est le contenu du fichier1.txt
+On va tester la nouvelle fonctionnalité
