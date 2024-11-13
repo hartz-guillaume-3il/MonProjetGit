@@ -1,2 +1,8 @@
 Ceci est le contenu du fichier1.txt
 On va tester la nouvelle fonctionnalité
+
+Modif 1
+
+Modif 2
+
+Modif 3
