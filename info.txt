@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+Encore une modif
+
 Information
 =======
 Information
