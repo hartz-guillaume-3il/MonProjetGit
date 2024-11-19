@@ -1,1 +1,5 @@
-ceci est une information
+<<<<<<< HEAD
+Information
+=======
+Information
+>>>>>>> f44f6b5 (Modification dans feature-c)
